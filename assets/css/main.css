@@ -189,12 +189,6 @@ html {
 
 body {
   background-color: #000000;
-  background-image: linear-gradient(
-      to top,
-      rgba(107, 107, 107, 0.8),
-      rgba(46, 49, 65, 0.8)
-    ),
-    url("../../images/bg.jpg");
   background-size: auto, cover;
   background-attachment: fixed, fixed;
   background-position: center, center;
@@ -459,7 +453,7 @@ code {
 
 pre {
   -webkit-overflow-scrolling: touch;
-  font-family: "Courier New", monospace;
+  font-family: "Hack", hack;
   font-size: 0.9em;
   margin: 0 0 2em 0;
 }
@@ -3664,13 +3658,8 @@ body.is-preload #banner p {
 @media screen and (max-width: 1280px) {
   #wrapper > header {
     padding: 9em 0 6.25em 0;
-    background-color: #2e3141;
-    background-image: linear-gradient(
-        to top,
-        rgba(46, 49, 65, 0.8),
-        rgba(46, 49, 65, 0.8)
-      ),
-      url("../../images/bg.jpg");
+    background-color: #000000;
+ 
     background-size: auto, cover;
     background-position: center, 0% 30%;
     margin-bottom: -6.5em;
