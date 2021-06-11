@@ -3909,7 +3909,7 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style2 {
-  background-color: #45558d;
+  background-color: #444444;
 }
 
 .wrapper.spotlight.style2:before,
@@ -3918,15 +3918,15 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style2:before {
-  box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;
+  box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #444444;
 }
 
 .wrapper.spotlight.style2:after {
-  box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;
+  box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #444444;
 }
 
 .wrapper.spotlight.style3 {
-  background-color: #3f4e85;
+  background-color: #444444;
 }
 
 .wrapper.spotlight.style3:before,
@@ -3935,11 +3935,11 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style3:before {
-  box-shadow: inset 0 -1px 0 0 #3f4e85, 0 1px 0 0 #3f4e85;
+  box-shadow: inset 0 -1px 0 0 #444444, 0 1px 0 0 #3f4e85;
 }
 
 .wrapper.spotlight.style3:after {
-  box-shadow: inset 0 -1px 0 0 #3f4e85, 0 1px 0 0 #3f4e85;
+  box-shadow: inset 0 -1px 0 0 #444444, 0 1px 0 0 #3f4e85;
 }
 
 .wrapper.spotlight.style4 {
@@ -3952,7 +3952,7 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style4:before {
-  box-shadow: inset 0 -1px 0 0 #39477c, 0 1px 0 0 #39477c;
+  box-shadow: inset 0 -1px 0 0 #444444, 0 1px 0 0 #444444;
 }
 
 .wrapper.spotlight.style4:after {
@@ -3960,7 +3960,7 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style5 {
-  background-color: #324072;
+  background-color: #444444;
 }
 
 .wrapper.spotlight.style5:before,
@@ -3969,15 +3969,15 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style5:before {
-  box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;
+  box-shadow: inset 0 -1px 0 0 #444444, 0 1px 0 0 #324072;
 }
 
 .wrapper.spotlight.style5:after {
-  box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;
+  box-shadow: inset 0 -1px 0 0 #4444442, 0 1px 0 0 #324072;
 }
 
 .wrapper.spotlight.style6 {
-  background-color: #2d3a69;
+  background-color: #444444;
 }
 
 .wrapper.spotlight.style6:before,
@@ -3986,11 +3986,11 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight.style6:before {
-  box-shadow: inset 0 -1px 0 0 #2d3a69, 0 1px 0 0 #2d3a69;
+  box-shadow: inset 0 -1px 0 0 #444444, 0 1px 0 0 #444444;
 }
 
 .wrapper.spotlight.style6:after {
-  box-shadow: inset 0 -1px 0 0 #2d3a69, 0 1px 0 0 #2d3a69;
+  box-shadow: inset 0 -1px 0 0 #444444, 0 1px 0 0 #444444;
 }
 
 @media screen and (max-width: 980px) {
