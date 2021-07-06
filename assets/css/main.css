@@ -3578,7 +3578,7 @@ body.is-menu-visible #menu .inner {
 
 @media screen and (max-width: 736px) {
   #banner {
-    padding: 5em 2em 4.25em 2em;
+       padding: 0em 0em 4.25em 0em;
     margin-bottom: -2.5em;
   }
 
