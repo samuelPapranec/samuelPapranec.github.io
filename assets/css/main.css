@@ -98,6 +98,8 @@ video {
 
 article,
 aside,
+#element1 {display:inline-block;margin-right:10px; width:200px;},
+#element2 {display:inline-block; width:200px;},
 details,
 figcaption,
 figure,
