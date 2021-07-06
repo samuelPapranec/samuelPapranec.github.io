@@ -4082,7 +4082,7 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 360px) {
   .wrapper .inner {
-    padding: 2em 1.5em 0.1em 1.5em;
+    padding: 0em 1.5em 0.1em 1.5em;
   }
 }
 
