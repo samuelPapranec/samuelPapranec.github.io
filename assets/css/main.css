@@ -214,7 +214,8 @@ input,
 select,
 textarea {
   color: #ffffff;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  /* font-family: "Source Sans Pro", Helvetica, sans-serif;*/
+	font-family: Hack
   font-size: 16.5pt;
   font-weight: 300;
   line-height: 1.65;
@@ -3756,9 +3757,9 @@ body.is-preload #banner p {
 }
 
 .wrapper .inner {
-  padding: 3em 0 1em 0;
-  margin: 0 auto;
-  width: 55em;
+  /* padding: 3em 0 1em 0; */
+  margin: -104px auto;
+   width: 24em; 
 }
 
 .wrapper.style2 {
@@ -3901,7 +3902,7 @@ body.is-preload #banner p {
   -webkit-flex-direction: row-reverse;
   -ms-flex-direction: row-reverse;
   flex-direction: row-reverse;
-  text-align: right;
+  text-align: left;
 }
 
 .wrapper.spotlight:nth-child(2n - 1) .image {
