@@ -292,7 +292,7 @@ a.special:not(.button) {
   text-decoration: none;
   border-bottom: 0;
   display: block;
-  font-family: Raleway, Helvetica, sans-serif;
+  font-family: "Font Awesome 5 Free";
   font-size: 0.8em;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -307,10 +307,8 @@ a.special:not(.button):before {
   font-style: normal;
   font-variant: normal;
   text-rendering: auto;
-  line-height: 1;
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
-  font-weight: 900;
 }
 
 a.special:not(.button):before {
