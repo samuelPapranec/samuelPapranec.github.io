@@ -300,7 +300,7 @@ a.special:not(.button) {
   text-transform: uppercase;
 }
 
-a.special:not(.button):before {
+/* a.special:not(.button):before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
@@ -308,10 +308,10 @@ a.special:not(.button):before {
   font-variant: normal;
   text-rendering: auto;
   text-transform: none !important;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Free"; */
 }
 
-a.special:not(.button):before {
+/*a.special:not(.button):before {
   -moz-transition: background-color 0.2s ease-in-out;
   -webkit-transition: background-color 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out;
@@ -327,15 +327,15 @@ a.special:not(.button):before {
   text-align: center;
   text-indent: 0.15em;
   vertical-align: middle;
-  width: 2em;
+  width: 2em; */
 }
 
-a.special:not(.button):hover:before {
-  background-color: rgba(255, 255, 255, 0.025);
+/*a.special:not(.button):hover:before {
+  background-color: rgba(255, 255, 255, 0.025);*/
 }
 
-a.special:not(.button):active:before {
-  background-color: rgba(255, 255, 255, 0.075);
+/*a.special:not(.button):active:before {
+  background-color: rgba(255, 255, 255, 0.075);*/
 }
 
 strong,
