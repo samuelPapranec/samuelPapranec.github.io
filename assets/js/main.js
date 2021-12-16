@@ -20,6 +20,9 @@
 			xsmall:	'(max-width: 320px)'
 		});
 
+	#liaddshapes::-webkit-scrollbar {
+    width: 0 !important;
+}
 	// Play initial animations on page load.
 		$window.on('load', function() {
 			window.setTimeout(function() {
